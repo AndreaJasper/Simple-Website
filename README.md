@@ -11,7 +11,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Simple Portfolio][product-screenshot]](https://github.com/AndreaJasper/rogue-pickings-website)
+[![Simple Portfolio][product-screenshot]](https://github.com/AndreaJasper/simple-portfolio-website)
 
 A simple practice piece from Skillcrush working on pixel perfect layout and clean code.
 
